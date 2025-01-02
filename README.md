@@ -3,7 +3,6 @@
 - 🔭 Atualmente, estou trabalhando em projetos pessoais e acadêmicos.
 - 🌱 Estou aprimorando minhas habilidades em desenvolvimento front-end, enquanto exploro meu interesse por back-end.
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/carlos-barbosa-7b9758260/) 
-- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://github.com/carlosqbarbosa">
