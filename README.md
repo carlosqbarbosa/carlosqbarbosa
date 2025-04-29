@@ -6,7 +6,6 @@
 
 <div>
   <a href="https://github.com/carlosqbarbosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosqbarbosa&layout=compact&theme=radical" alt="Top Langs" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosqbarbosa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
