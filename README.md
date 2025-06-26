@@ -1,9 +1,9 @@
-## Oi!! Eu sou o Carlos Barbosa 👋
+## Hi!! I'm Carlos Barbosa 👋
 
-- 🖥️ Estagiário em desenvolvimento Front-end  
-- 🔭 Também desenvolvo projetos pessoais e acadêmicos  
-- 🌱 Atualmente, estou aprimorando minhas habilidades em Front-end, e explorando também Back-end e QA  
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/carlos-barbosa-7b9758260/)
+- 🖥️ Front-end Development Intern 
+- 🔭 I also work on personal and academic projects  
+- 🌱 Currently improving my Front-end skills, while also exploring Back-end and QA  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-barbosa-7b9758260/)
 
 <div align="center">
   <a href="https://github.com/carlosqbarbosa">
