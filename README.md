@@ -22,6 +22,6 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Vue" height="30" width="40" src="icons/vuejs/vuejs-original.svg"
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://user-images.githubusercontent.com/41644376/73791106-c26e9800-47b2-11ea-88ab-f871b81cb97d.png" />
+  <img alt="TypeScript" height="30" width="40" src="https://user-images.githubusercontent.com/41644376/73791106-c26e9800-47b2-11ea-88ab-f871b81cb97d.png" />
 </div>
 
