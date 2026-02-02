@@ -1,5 +1,5 @@
 ## Hi!! I'm Carlos Barbosa 
--  Currently improving my Front-end skills, while also exploring Back-end and QA  
+-  Currently improving my FullStack skills, while also exploring QA and Design UI/UX.
 -  How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-barbosa-7b9758260/)
 - Google UX design certified - 2025
   
