@@ -10,4 +10,6 @@
 </a>
   <br />
 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=carlosqbarbosa&show_icons=true&theme=react">
+
   </div>
