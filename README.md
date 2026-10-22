@@ -6,7 +6,7 @@
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,next,tailwind,vue,docker,figma,github,materialui,postman,vercel,vite,bootstrap,angular" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,vue,docker,figma,github,materialui,postman,vercel,vite,bootstrap,angular" />
 </a>
   <br />
 
